@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+div#tv-audio{
+    width: 900px;
+    height: 580px;
+    margin: auto;
+}
+audio#musica{
+    display: block;
+    position: relative;
+    left:600px ;
+    top: 520px;
+    width: 300px;
+}
